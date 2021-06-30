@@ -51,3 +51,11 @@ section {
     align-self: center;
 }
 
+#jc #sp-ar {
+    justify-content: space-around;
+}
+
+#jc #sp-be {
+    justify-content: space-between;
+}
+
