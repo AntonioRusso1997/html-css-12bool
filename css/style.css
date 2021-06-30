@@ -20,7 +20,9 @@ section {
 
 .nestedgreen {
     width: 100%;
+    min-height: 30px;
     background-color: #00e165;
+    border: 1px solid blue;
     margin: 1px;
     padding: 10px;
 }
