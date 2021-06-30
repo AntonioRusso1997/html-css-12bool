@@ -27,3 +27,26 @@ section {
     padding: 10px;
 }
 
+#al #center {
+    justify-content: center;
+}
+
+#al #end {
+    justify-content: flex-end;
+}
+
+.heightx2 {
+    min-height: 100px;
+}
+
+#al #top {
+    align-self: flex-start;
+}
+
+#al #bott {
+    align-self: flex-end;
+}
+
+#al #mid {
+    align-self: center;
+}
